@@ -1,0 +1,14 @@
+.bg-color {
+    background-color: #d6e1eb;
+    font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+.btn-rounded {
+    border-radius: 3px;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
